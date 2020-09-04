@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
-    "@appname/eslint-config": "*",
+    "@contact/eslint-config": "*",
     "jest": "^26.4.2"
   },
   "scripts": {
